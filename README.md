@@ -1,4 +1,4 @@
-# Exam 3 - Android Project - 2022
+# Exam 3 - Android Project - 2022: Table Data
 
 This is the code used to demonstrate an understanding of,
 and implement the use of getting and loading data from the internet.
